@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="ol">Olá!</string>
+    <string name="todo">TODO</string>
+    <string name="hello_click_on_the_image">Hello! click on the image</string>
+    <string name="hi">Hi</string>
+    <string name="hello_Click_on_the_image">Hello! Click on the image</string>
+</resources>
